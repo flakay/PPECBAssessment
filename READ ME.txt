@@ -1,0 +1,5 @@
+1. Run "Create Scripts.sql" in SQL Server Management Studio to create the database and Employee table
+2. Open the "PPECBAssessment" solution file 
+3. Right click on the solution in Visual Studio and select "Clean Solution"
+4. Right click on the solution in Visual Studio and select "Rebuild Solution"
+5. F5 or Click "Start" to run 
